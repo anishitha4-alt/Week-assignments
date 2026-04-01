@@ -67,7 +67,7 @@ public class TransactionFeeSorter {
             list.set(j + 1, key);
         }
 
-        System.out.println("Insertion Sort Result: " + list);
+        System.out.println("Insertion Sort Result : " + list);
     }
 
 
